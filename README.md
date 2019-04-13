@@ -1,0 +1,2 @@
+# SDiZO
+Implementacja struktur danych
